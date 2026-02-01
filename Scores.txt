@@ -1,0 +1,30 @@
+Challenge 1
+
+==================================================
+Player: Ram_23356 (Ramachandran SS)
+Score: 24 | Budget: 71 bell pairs
+Active: Yes
+Starting node: Oslo, Norway
+Owned: 8 nodes, 11 edges
+Claimable edges: 18
+  - ['Aarhus, Denmark', 'Copenhagen, Denmark']: threshold=0.90, difficulty=1
+  - ['Bergen, Norway', 'Oslo, Norway']: threshold=0.90, difficulty=2
+  - ['Oslo, Norway', 'Uppsala, Sweden']: threshold=0.90, difficulty=3
+  ... and 15 more
+==================================================
+
+
+Challenge 2
+
+==================================================
+Player: Ram_23356_new (Ramachandran SS)
+Score: 21 | Budget: 20 bell pairs
+Active: Yes
+Starting node: Istanbul, Turkey
+Owned: 6 nodes, 9 edges
+Claimable edges: 4
+  - ['Bucharest, Romania', 'Lviv, Ukraine']: threshold=0.90, difficulty=3
+  - ['Ankara, Turkey', 'Istanbul, Turkey']: threshold=0.90, difficulty=3
+  - ['Ankara, Turkey', 'Izmir, Turkey']: threshold=0.90, difficulty=3
+  ... and 1 more
+==================================================
