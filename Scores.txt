@@ -28,3 +28,19 @@ Claimable edges: 4
   - ['Ankara, Turkey', 'Izmir, Turkey']: threshold=0.90, difficulty=3
   ... and 1 more
 ==================================================
+
+
+Challenge_2_score_83
+
+==================================================
+Player: Ram_23356_new_version1 (Ramachandran SS)
+Score: 83 | Budget: 1 bell pairs
+Active: Yes
+Starting node: Graz, Austria
+Owned: 35 nodes, 42 edges
+Claimable edges: 26
+  - ['Basel, Switzerland', 'Zurich, Switzerland']: threshold=0.90, difficulty=1
+  - ['Basel, Switzerland', 'Strasbourg, France']: threshold=0.90, difficulty=1
+  - ['Bern, Switzerland', 'Zurich, Switzerland']: threshold=0.90, difficulty=1
+  ... and 23 more
+==================================================
