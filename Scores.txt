@@ -44,3 +44,19 @@ Claimable edges: 26
   - ['Bern, Switzerland', 'Zurich, Switzerland']: threshold=0.90, difficulty=1
   ... and 23 more
 ==================================================
+
+
+Challenge_score_89
+
+==================================================
+Player: 121234382 (tutum1)
+Score: 89 | Budget: 1 bell pairs
+Active: Yes
+Starting node: Aachen, Germany
+Owned: 43 nodes, 85 edges
+Claimable edges: 53
+  - ['Basel, Switzerland', 'Bern, Switzerland']: threshold=0.90, difficulty=1
+  - ['Geneva, Switzerland', 'Lyon, France']: threshold=0.90, difficulty=1
+  - ['Geneva, Switzerland', 'Grenoble, France']: threshold=0.90, difficulty=1
+  ... and 50 more
+==================================================
